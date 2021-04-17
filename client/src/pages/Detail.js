@@ -9,14 +9,6 @@ import { useSelector, useDispatch } from 'react-redux'
 import { updateCartQuantity, addToCart, selectCart, removeFromCart } from '../utils/cartSlice'
 import { updateProducts, selectProducts } from '../utils/productSlice'
 
-// import { useStoreContext } from '../utils/GlobalState'
-// import {
-//   REMOVE_FROM_CART,
-//   UPDATE_CART_QUANTITY,
-//   ADD_TO_CART,
-//   UPDATE_PRODUCTS,
-// } from '../utils/actions';
-
 import Cart from '../components/Cart'
 
 import { idbPromise } from '../utils/helpers'
