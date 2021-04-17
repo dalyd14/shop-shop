@@ -4,7 +4,7 @@
 * [Installation](#installation)
 * [Questions](#questions)
 
-[link](https://shop-shop-shop-shop.herokuapp.com/)
+[Shop-Shop E-commerce Website](https://shop-shop-shop-shop.herokuapp.com/)
 
 ![Shop-shop main page](./Screenshot/Shop-shop-screenshot.PNG)
 
